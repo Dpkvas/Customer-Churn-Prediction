@@ -33,7 +33,7 @@ This project is part of the Lloyds Banking Group's Forage Job Simulation, where 
 ## 📁 Getting Started
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/lloyds-customer-churn-prediction.git
+git clone https://github.com/Dpkvas/Customer-Churn-Prediction.git
 
 # Install dependencies
 pip install -r requirements.txt
