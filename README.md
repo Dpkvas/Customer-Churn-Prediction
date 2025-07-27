@@ -11,8 +11,7 @@ This project is part of the Lloyds Banking Group's Forage Job Simulation, where 
 - Exported a cleaned dataset (`cleaned_customer_data.csv`) for modeling.
 
 📂 Artifacts:
-- `Task 1.pdf`
-- `task1_eda_and_cleaning.ipynb`
+- `Eda_and_cleaning.ipynb`
 - `cleaned_customer_data.csv`
 
 ### 🤖 Task 2: Machine Learning Model for Churn Prediction
